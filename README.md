@@ -1,2 +1,3 @@
 # PHP-MVC
-Crud And Auth Operations 
+A complete MVC frame work from scratch 
+Make some crud operations
